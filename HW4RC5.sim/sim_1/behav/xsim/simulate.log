@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Note: All test cases passed successfully
+Time: 172500 ns  Iteration: 0  Process: /RC5DecoderTB/Run_Test  File: D:/Software/Xilinx/Projects/HW4RC5/HW4RC5.srcs/sim_1/new/RC5DecoderTB.vhd
+$stop called at time : 172500 ns : File "D:/Software/Xilinx/Projects/HW4RC5/HW4RC5.srcs/sim_1/new/RC5DecoderTB.vhd" Line 90

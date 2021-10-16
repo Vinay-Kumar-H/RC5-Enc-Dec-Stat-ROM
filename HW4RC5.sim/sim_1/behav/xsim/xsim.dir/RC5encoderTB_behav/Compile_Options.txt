@@ -1,0 +1,1 @@
+-wto "c39ac39d014d489abc165e7471658b2c" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "RC5encoderTB_behav" "xil_defaultlib.RC5encoderTB" "xil_defaultlib.glbl" -log "elaborate.log" 

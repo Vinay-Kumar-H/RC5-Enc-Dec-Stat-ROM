@@ -1,0 +1,9 @@
+0.7
+2020.2
+Jul 28 2021
+13:32:51
+D:/Software/Xilinx/Projects/HW4RC5/HW4RC5.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+D:/Software/Xilinx/Projects/HW4RC5/HW4RC5.srcs/sim_1/new/RC5DecoderTB.vhd,1634301438,vhdl,,,,rc5decodertb,,,,,,,,
+D:/Software/Xilinx/Projects/HW4RC5/HW4RC5.srcs/sim_1/new/RC5encoderTB.v,1634242508,verilog,,,,RC5encoderTB,,,,,,,,
+D:/Software/Xilinx/Projects/HW4RC5/HW4RC5.srcs/sources_1/new/RC5Decoder.v,1634145336,verilog,D:/Software/Xilinx/Projects/HW4RC5/HW4RC5.srcs/sim_1/new/RC5DecoderTB.vhd,,,\RC5Decoder\,,,,,,,,
+D:/Software/Xilinx/Projects/HW4RC5/HW4RC5.srcs/sources_1/new/RC5Encoder.vhd,1633994744,vhdl,,,,rc5encoder,,,,,,,,

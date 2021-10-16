@@ -1,0 +1,7 @@
+Running: xsim.dir/RC5DecoderTB_behav/xsimk.exe -simmode gui -wdb RC5DecoderTB_behav.wdb -simrunnum 0 -socket 56763
+Design successfully loaded
+Design Loading Memory Usage: 6940 KB (Peak: 6940 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 7940 KB (Peak: 7940 KB)
+Simulation CPU Usage: 77 ms

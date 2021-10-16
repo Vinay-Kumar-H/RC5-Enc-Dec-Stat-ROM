@@ -1,0 +1,12 @@
+
+{ 
+    crc :  5339231589502916412  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto c39ac39d014d489abc165e7471658b2c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot RC5Decoder_behav xil_defaultlib.RC5Decoder xil_defaultlib.glbl" , 
+    buildDate : "Jul 28 2021" , 
+    buildTime : "13:32:51" , 
+    linkCmd : "D:\\Software\\Xilinx\\Vivado\\2021.1\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/RC5Decoder_behav/xsimk.exe\"   \"xsim.dir/RC5Decoder_behav/obj/xsim_0.win64.obj\" \"xsim.dir/RC5Decoder_behav/obj/xsim_1.win64.obj\" -L\"D:\\Software\\Xilinx\\Vivado\\2021.1\\lib\\win64.o\" -lrdi_simulator_kernel   -lrdi_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
